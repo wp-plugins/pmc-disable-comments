@@ -1,10 +1,10 @@
 === PMC Disable Comments ===
-Contributors: vickybiswas, PMC
+Contributors: vickybiswas, pmcdotcom
 Donate link: 
 Tags: comments, disable comments, custom post type,
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,7 +37,8 @@ This can be switched on as needed per post or per post type.
 2. 
 
 == Changelog ==
-
+1.0.1 	Update ReadMe
+1.0 	Release
 
 
 == Upgrade notice ==
